@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nicolasmahlangu75
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Microsoft Azure
+- 👀 I’m interested in ...Web Development & Database Administration
+- 🌱 I’m currently learning ...Systems Development Fundamentals
 - 💞️ I’m looking to collaborate on ...any IT-related project
 - 📫 How to reach me ...nicolasmahlangu75@gmail.com or WhatsApp me on this number 0624457716
 
